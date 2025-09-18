@@ -10,3 +10,4 @@ target/*
 .DS_Store
 /lib/
 /.idea
+/openelisglobal-plugins.iml
